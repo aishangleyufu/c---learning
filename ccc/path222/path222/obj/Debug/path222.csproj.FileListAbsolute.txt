@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\path222\path222\bin\Debug\path222.exe
+C:\Users\c\Desktop\ccc\path222\path222\bin\Debug\path222.pdb
+C:\Users\c\Desktop\ccc\path222\path222\obj\Debug\path222.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\path222\path222\obj\Debug\path222.exe
+C:\Users\c\Desktop\ccc\path222\path222\obj\Debug\path222.pdb

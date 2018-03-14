@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\jichenglianxi\jichenglianxi\obj\Debug\jichenglianxi.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\jichenglianxi\jichenglianxi\bin\Debug\jichenglianxi.exe
+C:\Users\c\Desktop\ccc\jichenglianxi\jichenglianxi\bin\Debug\jichenglianxi.pdb
+C:\Users\c\Desktop\ccc\jichenglianxi\jichenglianxi\obj\Debug\jichenglianxi.exe
+C:\Users\c\Desktop\ccc\jichenglianxi\jichenglianxi\obj\Debug\jichenglianxi.pdb

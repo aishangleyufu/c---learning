@@ -1,0 +1,8 @@
+C:\Users\c\Desktop\ccc\石头剪刀布\对话框\bin\Debug\对话框.exe
+C:\Users\c\Desktop\ccc\石头剪刀布\对话框\bin\Debug\对话框.pdb
+C:\Users\c\Desktop\ccc\石头剪刀布\对话框\obj\Debug\对话框.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\石头剪刀布\对话框\obj\Debug\对话框.Form1.resources
+C:\Users\c\Desktop\ccc\石头剪刀布\对话框\obj\Debug\对话框.Properties.Resources.resources
+C:\Users\c\Desktop\ccc\石头剪刀布\对话框\obj\Debug\对话框.csproj.GenerateResource.Cache
+C:\Users\c\Desktop\ccc\石头剪刀布\对话框\obj\Debug\对话框.exe
+C:\Users\c\Desktop\ccc\石头剪刀布\对话框\obj\Debug\对话框.pdb

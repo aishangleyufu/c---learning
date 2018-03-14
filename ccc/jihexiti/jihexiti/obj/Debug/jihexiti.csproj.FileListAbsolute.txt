@@ -1,0 +1,4 @@
+C:\Users\c\Desktop\ccc\jihexiti\jihexiti\bin\Debug\jihexiti.exe
+C:\Users\c\Desktop\ccc\jihexiti\jihexiti\bin\Debug\jihexiti.pdb
+C:\Users\c\Desktop\ccc\jihexiti\jihexiti\obj\Debug\jihexiti.exe
+C:\Users\c\Desktop\ccc\jihexiti\jihexiti\obj\Debug\jihexiti.pdb

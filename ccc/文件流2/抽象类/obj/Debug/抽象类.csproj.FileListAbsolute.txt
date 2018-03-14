@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\文件流2\抽象类\bin\Debug\抽象类.exe
+C:\Users\c\Desktop\ccc\文件流2\抽象类\bin\Debug\抽象类.pdb
+C:\Users\c\Desktop\ccc\文件流2\抽象类\obj\Debug\抽象类.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\文件流2\抽象类\obj\Debug\抽象类.exe
+C:\Users\c\Desktop\ccc\文件流2\抽象类\obj\Debug\抽象类.pdb

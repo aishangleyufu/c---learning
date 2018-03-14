@@ -1,0 +1,8 @@
+C:\Users\c\Desktop\ccc\ItcastCater\ItcastCaterDal\bin\Debug\ItcastCaterDal.dll
+C:\Users\c\Desktop\ccc\ItcastCater\ItcastCaterDal\bin\Debug\ItcastCaterDal.pdb
+C:\Users\c\Desktop\ccc\ItcastCater\ItcastCaterDal\bin\Debug\ItcastCaterModel.dll
+C:\Users\c\Desktop\ccc\ItcastCater\ItcastCaterDal\bin\Debug\System.Data.SQLite.DLL
+C:\Users\c\Desktop\ccc\ItcastCater\ItcastCaterDal\bin\Debug\ItcastCaterModel.pdb
+C:\Users\c\Desktop\ccc\ItcastCater\ItcastCaterDal\obj\Debug\ItcastCaterDal.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\ItcastCater\ItcastCaterDal\obj\Debug\ItcastCaterDal.dll
+C:\Users\c\Desktop\ccc\ItcastCater\ItcastCaterDal\obj\Debug\ItcastCaterDal.pdb

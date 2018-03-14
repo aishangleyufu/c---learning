@@ -1,0 +1,7 @@
+C:\Users\c\Desktop\ccc\点击更换验证码\点击更换验证码\bin\Debug\点击更换验证码.exe
+C:\Users\c\Desktop\ccc\点击更换验证码\点击更换验证码\bin\Debug\点击更换验证码.pdb
+C:\Users\c\Desktop\ccc\点击更换验证码\点击更换验证码\obj\Debug\点击更换验证码.Form1.resources
+C:\Users\c\Desktop\ccc\点击更换验证码\点击更换验证码\obj\Debug\点击更换验证码.Properties.Resources.resources
+C:\Users\c\Desktop\ccc\点击更换验证码\点击更换验证码\obj\Debug\点击更换验证码.csproj.GenerateResource.Cache
+C:\Users\c\Desktop\ccc\点击更换验证码\点击更换验证码\obj\Debug\点击更换验证码.exe
+C:\Users\c\Desktop\ccc\点击更换验证码\点击更换验证码\obj\Debug\点击更换验证码.pdb

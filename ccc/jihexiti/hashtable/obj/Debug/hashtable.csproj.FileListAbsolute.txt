@@ -1,0 +1,4 @@
+C:\Users\c\Desktop\ccc\jihexiti\hashtable\bin\Debug\hashtable.exe
+C:\Users\c\Desktop\ccc\jihexiti\hashtable\bin\Debug\hashtable.pdb
+C:\Users\c\Desktop\ccc\jihexiti\hashtable\obj\Debug\hashtable.exe
+C:\Users\c\Desktop\ccc\jihexiti\hashtable\obj\Debug\hashtable.pdb

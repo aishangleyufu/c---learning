@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\fangfazonghe\fangfazonghe\bin\Debug\fangfazonghe.exe
+C:\Users\c\Desktop\ccc\fangfazonghe\fangfazonghe\bin\Debug\fangfazonghe.pdb
+C:\Users\c\Desktop\ccc\fangfazonghe\fangfazonghe\obj\Debug\fangfazonghe.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\fangfazonghe\fangfazonghe\obj\Debug\fangfazonghe.exe
+C:\Users\c\Desktop\ccc\fangfazonghe\fangfazonghe\obj\Debug\fangfazonghe.pdb

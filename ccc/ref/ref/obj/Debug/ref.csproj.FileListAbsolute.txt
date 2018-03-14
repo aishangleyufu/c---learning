@@ -1,0 +1,4 @@
+C:\Users\c\Desktop\ccc\ref\ref\bin\Debug\@ref.exe
+C:\Users\c\Desktop\ccc\ref\ref\bin\Debug\@ref.pdb
+C:\Users\c\Desktop\ccc\ref\ref\obj\Debug\@ref.exe
+C:\Users\c\Desktop\ccc\ref\ref\obj\Debug\@ref.pdb

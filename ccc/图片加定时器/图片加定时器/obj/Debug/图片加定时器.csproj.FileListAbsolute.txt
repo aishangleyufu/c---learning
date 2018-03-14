@@ -1,0 +1,7 @@
+C:\Users\c\Desktop\ccc\图片加定时器\图片加定时器\obj\Debug\图片加定时器.Form1.resources
+C:\Users\c\Desktop\ccc\图片加定时器\图片加定时器\obj\Debug\图片加定时器.Properties.Resources.resources
+C:\Users\c\Desktop\ccc\图片加定时器\图片加定时器\obj\Debug\图片加定时器.csproj.GenerateResource.Cache
+C:\Users\c\Desktop\ccc\图片加定时器\图片加定时器\bin\Debug\图片加定时器.exe
+C:\Users\c\Desktop\ccc\图片加定时器\图片加定时器\bin\Debug\图片加定时器.pdb
+C:\Users\c\Desktop\ccc\图片加定时器\图片加定时器\obj\Debug\图片加定时器.exe
+C:\Users\c\Desktop\ccc\图片加定时器\图片加定时器\obj\Debug\图片加定时器.pdb

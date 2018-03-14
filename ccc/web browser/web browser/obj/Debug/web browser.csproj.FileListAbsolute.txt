@@ -1,0 +1,8 @@
+C:\Users\c\Desktop\ccc\web browser\web browser\bin\Debug\web browser.exe
+C:\Users\c\Desktop\ccc\web browser\web browser\bin\Debug\web browser.pdb
+C:\Users\c\Desktop\ccc\web browser\web browser\obj\Debug\web browser.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\web browser\web browser\obj\Debug\web_browser.Form1.resources
+C:\Users\c\Desktop\ccc\web browser\web browser\obj\Debug\web_browser.Properties.Resources.resources
+C:\Users\c\Desktop\ccc\web browser\web browser\obj\Debug\web browser.csproj.GenerateResource.Cache
+C:\Users\c\Desktop\ccc\web browser\web browser\obj\Debug\web browser.exe
+C:\Users\c\Desktop\ccc\web browser\web browser\obj\Debug\web browser.pdb

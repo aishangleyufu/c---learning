@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jihexiti", "jihexiti\jihexiti.csproj", "{57AACE2F-5952-4ECE-A5C5-4374FB597945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hashtable", "hashtable\hashtable.csproj", "{C23112E9-D910-4123-B449-37CA407DC819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57AACE2F-5952-4ECE-A5C5-4374FB597945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AACE2F-5952-4ECE-A5C5-4374FB597945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AACE2F-5952-4ECE-A5C5-4374FB597945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AACE2F-5952-4ECE-A5C5-4374FB597945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C23112E9-D910-4123-B449-37CA407DC819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23112E9-D910-4123-B449-37CA407DC819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23112E9-D910-4123-B449-37CA407DC819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23112E9-D910-4123-B449-37CA407DC819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

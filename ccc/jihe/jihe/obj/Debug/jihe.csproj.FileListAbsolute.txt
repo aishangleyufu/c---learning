@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\jihe\jihe\bin\Debug\jihe.exe
+C:\Users\c\Desktop\ccc\jihe\jihe\bin\Debug\jihe.pdb
+C:\Users\c\Desktop\ccc\jihe\jihe\obj\Debug\jihe.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\jihe\jihe\obj\Debug\jihe.exe
+C:\Users\c\Desktop\ccc\jihe\jihe\obj\Debug\jihe.pdb

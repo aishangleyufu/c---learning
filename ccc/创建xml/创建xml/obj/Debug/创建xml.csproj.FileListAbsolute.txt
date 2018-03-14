@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\创建xml\创建xml\bin\Debug\创建xml.exe
+C:\Users\c\Desktop\ccc\创建xml\创建xml\bin\Debug\创建xml.pdb
+C:\Users\c\Desktop\ccc\创建xml\创建xml\obj\Debug\创建xml.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\创建xml\创建xml\obj\Debug\创建xml.exe
+C:\Users\c\Desktop\ccc\创建xml\创建xml\obj\Debug\创建xml.pdb

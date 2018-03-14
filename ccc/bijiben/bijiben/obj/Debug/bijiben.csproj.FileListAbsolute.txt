@@ -1,0 +1,8 @@
+C:\Users\c\Desktop\ccc\bijiben\bijiben\bin\Debug\bijiben.exe
+C:\Users\c\Desktop\ccc\bijiben\bijiben\bin\Debug\bijiben.pdb
+C:\Users\c\Desktop\ccc\bijiben\bijiben\obj\Debug\bijiben.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\bijiben\bijiben\obj\Debug\bijiben.Form1.resources
+C:\Users\c\Desktop\ccc\bijiben\bijiben\obj\Debug\bijiben.Properties.Resources.resources
+C:\Users\c\Desktop\ccc\bijiben\bijiben\obj\Debug\bijiben.csproj.GenerateResource.Cache
+C:\Users\c\Desktop\ccc\bijiben\bijiben\obj\Debug\bijiben.exe
+C:\Users\c\Desktop\ccc\bijiben\bijiben\obj\Debug\bijiben.pdb

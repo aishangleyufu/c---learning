@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\文件流2\文件流2\bin\Debug\文件流2.exe
+C:\Users\c\Desktop\ccc\文件流2\文件流2\bin\Debug\文件流2.pdb
+C:\Users\c\Desktop\ccc\文件流2\文件流2\obj\Debug\文件流2.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\文件流2\文件流2\obj\Debug\文件流2.exe
+C:\Users\c\Desktop\ccc\文件流2\文件流2\obj\Debug\文件流2.pdb

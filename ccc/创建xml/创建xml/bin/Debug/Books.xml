@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book>
+    <Name name="黄色">
+      <p>我是一个p标签</p>
+    </Name>
+    <Price>10</Price>
+    <Des>历史名著</Des>
+  </Book>
+  <Book>
+    <Name>水浒传</Name>
+    <Price>20</Price>
+    <Des>四大名著</Des>
+  </Book>
+</Books>

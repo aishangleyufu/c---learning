@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\feixingqi\feixingqi\bin\Debug\feixingqi.exe
+C:\Users\c\Desktop\ccc\feixingqi\feixingqi\bin\Debug\feixingqi.pdb
+C:\Users\c\Desktop\ccc\feixingqi\feixingqi\obj\Debug\feixingqi.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\feixingqi\feixingqi\obj\Debug\feixingqi.exe
+C:\Users\c\Desktop\ccc\feixingqi\feixingqi\obj\Debug\feixingqi.pdb

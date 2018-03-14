@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\chengfakoujue\chengfakoujue\bin\Debug\chengfakoujue.exe
+C:\Users\c\Desktop\ccc\chengfakoujue\chengfakoujue\bin\Debug\chengfakoujue.pdb
+C:\Users\c\Desktop\ccc\chengfakoujue\chengfakoujue\obj\Debug\chengfakoujue.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\chengfakoujue\chengfakoujue\obj\Debug\chengfakoujue.exe
+C:\Users\c\Desktop\ccc\chengfakoujue\chengfakoujue\obj\Debug\chengfakoujue.pdb

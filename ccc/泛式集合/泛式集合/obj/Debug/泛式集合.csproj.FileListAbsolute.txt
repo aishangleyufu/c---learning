@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\泛式集合\泛式集合\bin\Debug\泛式集合.exe
+C:\Users\c\Desktop\ccc\泛式集合\泛式集合\bin\Debug\泛式集合.pdb
+C:\Users\c\Desktop\ccc\泛式集合\泛式集合\obj\Debug\泛式集合.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\泛式集合\泛式集合\obj\Debug\泛式集合.exe
+C:\Users\c\Desktop\ccc\泛式集合\泛式集合\obj\Debug\泛式集合.pdb

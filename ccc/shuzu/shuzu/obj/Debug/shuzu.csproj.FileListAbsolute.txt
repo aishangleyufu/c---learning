@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\shuzu\shuzu\bin\Debug\shuzu.exe
+C:\Users\c\Desktop\ccc\shuzu\shuzu\bin\Debug\shuzu.pdb
+C:\Users\c\Desktop\ccc\shuzu\shuzu\obj\Debug\shuzu.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\shuzu\shuzu\obj\Debug\shuzu.exe
+C:\Users\c\Desktop\ccc\shuzu\shuzu\obj\Debug\shuzu.pdb

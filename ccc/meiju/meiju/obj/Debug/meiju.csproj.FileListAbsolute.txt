@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\meiju\meiju\bin\Debug\meiju.exe
+C:\Users\c\Desktop\ccc\meiju\meiju\bin\Debug\meiju.pdb
+C:\Users\c\Desktop\ccc\meiju\meiju\obj\Debug\meiju.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\meiju\meiju\obj\Debug\meiju.exe
+C:\Users\c\Desktop\ccc\meiju\meiju\obj\Debug\meiju.pdb

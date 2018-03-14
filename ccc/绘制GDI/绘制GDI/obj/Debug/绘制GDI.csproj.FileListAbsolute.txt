@@ -1,0 +1,8 @@
+C:\Users\c\Desktop\ccc\绘制GDI\绘制GDI\bin\Debug\绘制GDI.exe
+C:\Users\c\Desktop\ccc\绘制GDI\绘制GDI\bin\Debug\绘制GDI.pdb
+C:\Users\c\Desktop\ccc\绘制GDI\绘制GDI\obj\Debug\绘制GDI.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\绘制GDI\绘制GDI\obj\Debug\绘制GDI.Form1.resources
+C:\Users\c\Desktop\ccc\绘制GDI\绘制GDI\obj\Debug\绘制GDI.Properties.Resources.resources
+C:\Users\c\Desktop\ccc\绘制GDI\绘制GDI\obj\Debug\绘制GDI.csproj.GenerateResource.Cache
+C:\Users\c\Desktop\ccc\绘制GDI\绘制GDI\obj\Debug\绘制GDI.exe
+C:\Users\c\Desktop\ccc\绘制GDI\绘制GDI\obj\Debug\绘制GDI.pdb

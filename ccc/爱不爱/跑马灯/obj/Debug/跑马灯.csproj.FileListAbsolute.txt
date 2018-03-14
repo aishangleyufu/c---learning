@@ -1,0 +1,8 @@
+C:\Users\c\Desktop\ccc\爱不爱\跑马灯\bin\Debug\跑马灯.exe
+C:\Users\c\Desktop\ccc\爱不爱\跑马灯\bin\Debug\跑马灯.pdb
+C:\Users\c\Desktop\ccc\爱不爱\跑马灯\obj\Debug\跑马灯.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\爱不爱\跑马灯\obj\Debug\跑马灯.Form1.resources
+C:\Users\c\Desktop\ccc\爱不爱\跑马灯\obj\Debug\跑马灯.Properties.Resources.resources
+C:\Users\c\Desktop\ccc\爱不爱\跑马灯\obj\Debug\跑马灯.csproj.GenerateResource.Cache
+C:\Users\c\Desktop\ccc\爱不爱\跑马灯\obj\Debug\跑马灯.exe
+C:\Users\c\Desktop\ccc\爱不爱\跑马灯\obj\Debug\跑马灯.pdb

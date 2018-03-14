@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "石头剪刀布", "石头剪刀布\石头剪刀布.csproj", "{47E5EDDC-4785-4E2F-B27C-F2418E6979CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "对话框", "对话框\对话框.csproj", "{E41700A8-06A2-47A4-89D4-24B62285DB95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E5EDDC-4785-4E2F-B27C-F2418E6979CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E5EDDC-4785-4E2F-B27C-F2418E6979CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E5EDDC-4785-4E2F-B27C-F2418E6979CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E5EDDC-4785-4E2F-B27C-F2418E6979CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41700A8-06A2-47A4-89D4-24B62285DB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41700A8-06A2-47A4-89D4-24B62285DB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41700A8-06A2-47A4-89D4-24B62285DB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41700A8-06A2-47A4-89D4-24B62285DB95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

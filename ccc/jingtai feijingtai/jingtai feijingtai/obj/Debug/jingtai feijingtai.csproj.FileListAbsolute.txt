@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\jingtai feijingtai\jingtai feijingtai\bin\Debug\jingtai feijingtai.exe
+C:\Users\c\Desktop\ccc\jingtai feijingtai\jingtai feijingtai\bin\Debug\jingtai feijingtai.pdb
+C:\Users\c\Desktop\ccc\jingtai feijingtai\jingtai feijingtai\obj\Debug\jingtai feijingtai.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\jingtai feijingtai\jingtai feijingtai\obj\Debug\jingtai feijingtai.exe
+C:\Users\c\Desktop\ccc\jingtai feijingtai\jingtai feijingtai\obj\Debug\jingtai feijingtai.pdb

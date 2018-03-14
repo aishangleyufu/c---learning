@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\fangfa\fangfa\bin\Debug\fangfa.exe
+C:\Users\c\Desktop\ccc\fangfa\fangfa\bin\Debug\fangfa.pdb
+C:\Users\c\Desktop\ccc\fangfa\fangfa\obj\Debug\fangfa.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\fangfa\fangfa\obj\Debug\fangfa.exe
+C:\Users\c\Desktop\ccc\fangfa\fangfa\obj\Debug\fangfa.pdb

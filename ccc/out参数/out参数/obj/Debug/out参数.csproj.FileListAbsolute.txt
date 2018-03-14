@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\out参数\out参数\bin\Debug\out参数.exe
+C:\Users\c\Desktop\ccc\out参数\out参数\bin\Debug\out参数.pdb
+C:\Users\c\Desktop\ccc\out参数\out参数\obj\Debug\out参数.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\out参数\out参数\obj\Debug\out参数.exe
+C:\Users\c\Desktop\ccc\out参数\out参数\obj\Debug\out参数.pdb

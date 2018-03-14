@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\访问修饰符\接口练习\obj\Debug\接口练习.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\访问修饰符\接口练习\bin\Debug\接口练习.exe
+C:\Users\c\Desktop\ccc\访问修饰符\接口练习\bin\Debug\接口练习.pdb
+C:\Users\c\Desktop\ccc\访问修饰符\接口练习\obj\Debug\接口练习.exe
+C:\Users\c\Desktop\ccc\访问修饰符\接口练习\obj\Debug\接口练习.pdb

@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\访问修饰符\超市商品系统\bin\Debug\超市商品系统.exe
+C:\Users\c\Desktop\ccc\访问修饰符\超市商品系统\bin\Debug\超市商品系统.pdb
+C:\Users\c\Desktop\ccc\访问修饰符\超市商品系统\obj\Debug\超市商品系统.exe
+C:\Users\c\Desktop\ccc\访问修饰符\超市商品系统\obj\Debug\超市商品系统.pdb
+C:\Users\c\Desktop\ccc\访问修饰符\超市商品系统\obj\Debug\超市商品系统.csprojResolveAssemblyReference.cache

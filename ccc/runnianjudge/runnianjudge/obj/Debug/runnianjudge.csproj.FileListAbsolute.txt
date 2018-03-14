@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\runnianjudge\runnianjudge\bin\Debug\runnianjudge.exe
+C:\Users\c\Desktop\ccc\runnianjudge\runnianjudge\bin\Debug\runnianjudge.pdb
+C:\Users\c\Desktop\ccc\runnianjudge\runnianjudge\obj\Debug\runnianjudge.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\runnianjudge\runnianjudge\obj\Debug\runnianjudge.exe
+C:\Users\c\Desktop\ccc\runnianjudge\runnianjudge\obj\Debug\runnianjudge.pdb

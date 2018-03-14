@@ -1,0 +1,9 @@
+/COM,ANSYS RELEASE 10.0    UP20050718       13:22:49    08/17/2017
+
+ *** ERROR ***                           CP =       0.718   TIME= 13:22:51
+ Data file C:\Users\c\Desktop\ccc\ItcastCater\ItcastCaterDal\bin\Debug\ca
+ ter.db does not exist for RESUME.                                       
+
+ *** WARNING ***                         CP =       0.718   TIME= 13:22:51
+ WHILE PROCESSING FILE BASED INPUT (/INPUT OR MACRO) AN ERROR HAS        
+ OCCURRED.  SHOULD INPUT PROCESSING BE SUSPENDED?                        

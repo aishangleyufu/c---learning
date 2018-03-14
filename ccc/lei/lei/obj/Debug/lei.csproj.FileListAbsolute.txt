@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\lei\lei\bin\Debug\lei.exe
+C:\Users\c\Desktop\ccc\lei\lei\bin\Debug\lei.pdb
+C:\Users\c\Desktop\ccc\lei\lei\obj\Debug\lei.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\lei\lei\obj\Debug\lei.exe
+C:\Users\c\Desktop\ccc\lei\lei\obj\Debug\lei.pdb

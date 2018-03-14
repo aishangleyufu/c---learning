@@ -1,0 +1,4 @@
+C:\Users\c\Desktop\ccc\ItcastCater\ItcastModel\bin\Debug\ItcastCaterModel.dll
+C:\Users\c\Desktop\ccc\ItcastCater\ItcastModel\bin\Debug\ItcastCaterModel.pdb
+C:\Users\c\Desktop\ccc\ItcastCater\ItcastModel\obj\Debug\ItcastCaterModel.dll
+C:\Users\c\Desktop\ccc\ItcastCater\ItcastModel\obj\Debug\ItcastCaterModel.pdb
